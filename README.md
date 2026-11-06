@@ -207,3 +207,6 @@ This repository serves as the official landing page for Hearts of Iron II: Compl
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Hearts of Iron II: Complete today!**
+
+---
+**Last updated:** 2026-11-06 07:32:26 UTC
