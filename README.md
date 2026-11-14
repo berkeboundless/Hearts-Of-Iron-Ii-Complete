@@ -209,4 +209,4 @@ This repository serves as the official landing page for Hearts of Iron II: Compl
 **Get the most recent version of Hearts of Iron II: Complete today!**
 
 ---
-**Last updated:** 2026-11-14 01:09:58 UTC
+**Last updated:** 2026-11-14 08:25:17 UTC
